@@ -2,7 +2,7 @@
 [![MasterHead](https://media0.giphy.com/media/zOvBKUUEERdNm/200w.webp?cid=ecf05e47zskf34a3ogsjwhof9kykroamdp8e7n68x7sp4c0p&ep=v1_gifs_search&rid=200w.webp&ct=g)](https://Aashish-creates.io)
 <h1 align="center">Hi 👋, I'm Aashish Subedi</h1>
 <h3 align="center">Fun Coder from India</h3>
-<img align "right" alt="Gangster" width="400" src="https://media4.giphy.com/media/BQAk13taTaKYw/200w.webp?cid=ecf05e47zk1c5rwf5cpgk113158v8vezk7te4puyu52ft5lu&ep=v1_gifs_search&rid=200w.webp&ct=g"
+<img align "right" alt="Gangster" width="400" src="https://c4.wallpaperflare.com/wallpaper/410/558/539/anime-anime-girls-underboob-liang-xing-wallpaper-preview.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-creates&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-creates" /> </p>
 
