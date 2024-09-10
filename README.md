@@ -1,7 +1,7 @@
 
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/978/259/719/despicable-me-assassin-s-creed-crossover-video-games-wallpaper-preview.jpg)](https://Aashish-creates.io)
 <h1 align="center">Hi 👋, I'm Aashish Subedi</h1>
-<h3 align="center">Fun Coder from India</h3>
+<h3 align="center">Coder from India</h3>
 <img align "right" alt="Gangster" width="400" src="https://c4.wallpaperflare.com/wallpaper/817/397/84/naruto-shippuuden-akatsuki-uchiha-itachi-wallpaper-preview.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-creates&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-creates" /> </p>
