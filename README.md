@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/WiK8OeW.png)]()
+[![MasterHead](https://i.imgur.com/w7VYg0e.png)]()
 
 <h1 align="center">Hi 👋, I'm Aashish Subedi</h1>
 <h3 align="center">💻 Fun & Curious Coder | 🚀 Full Stack Explorer | 🇮🇳 From India</h3>
@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🛠️ Currently working on **SQL & Full Stack Projects**
-- 🌱 Learning **SQL, OS, CBNST, .NET, Angular**
+- 🌱 Learning **SQL,.NET, Angular**
 - 💬 Ask me about **C, C++, Java, Football, Badminton**
 - 📫 Reach me at **aaashishsubedi105@gmail.com**
 - ⚡ Fun fact: **I’m an athlete and a tech lover!**
@@ -51,12 +51,6 @@
 </p>
 
 ---
-
-## 🔥 Anime + Coding Vibes
-<p align="center">
-<img src="https://c4.wallpaperflare.com/wallpaper/978/259/719/despicable-me-assassin-s-creed-crossover-video-games-wallpaper-preview.jpg" width="380"/>
-<img src="https://c4.wallpaperflare.com/wallpaper/817/397/84/naruto-shippuuden-akatsuki-uchiha-itachi-wallpaper-preview.jpg" width="380"/>
-</p>
 
 ---
 
